@@ -7,6 +7,6 @@ namespace rpg2
 {
     class Objects
     {
-        public static string[] page;
+        public static string[] text1 = {"one", "two", "three"};
     }
 }
